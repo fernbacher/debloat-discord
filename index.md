@@ -8,4 +8,4 @@
 
 - Keep only the language you use
 
-> **No matter of the version in app-1.0.whatever and so on, it will be the same method**
+- **No matter of the version in app-1.0.whatever and so on, it will be the same method**
