@@ -10,4 +10,3 @@
 
 - **No matter of the version in app-1.0.whatever and so on, it will be the same method**
 
-<a href="https://www.metin2pserver.info/server-rival2ba.html" title="Metin2" target="_blank"><img src="http://api.metin2pserver.info/rival2ba.png" border="0" alt="Metin2" width="400" height="130"></a>
