@@ -6,4 +6,5 @@
 - Keep only the language you use and I advise to keep `en-US.pak` to prevent issues (from personal experience).
 - This method should continue to work whatever the Discord version, feel free to fix anything in a pull request though.
 - Disabling updates by creating a shortcut to the Discord executable directly should prevent the modules from coming back, but this is not advisable.
+- Additional Tweak - Replacing default `app.asar` inside`resources` folder with [OpenAsar](https://github.com/GooseMod/OpenAsar)
 - **⚠ Warning: With each Discord update, the modules & locales will come back! This is why it is advisable to use Discord web or a client alternative like [WebCord](https://github.com/SpacingBat3/WebCord).**
